@@ -19,9 +19,17 @@
 
 Business and strategy consultant, builder and entrepreneur working at the intersection of **product design, AI and automation**. I design and ship AI-powered tools, from **multi-agent systems** and **LLM workflows** to **full-stack web apps**.
 
-- 🎓 Currently studying **Analytics & AI**
+- 🎓 Currently doing my **MSc in Analytics & AI (MAAI)** at **ESMT Berlin**
 - 🛠️ Building my own products under **PeakLab**
 - ⚡ Turning ideas into working prototypes, fast
+
+---
+
+## 🧭 Timeline
+
+<p align="center">
+  <img src="./timeline.svg" width="100%" alt="2021–2024: WHU – Otto Beisheim School of Management (B.Sc.) · 2024–2026: The Nunatak Group (Consultant, Digital &amp; AI Strategy) · 2026–now: MSc Analytics &amp; AI at ESMT Berlin" />
+</p>
 
 ---
 
@@ -64,19 +72,6 @@ Business and strategy consultant, builder and entrepreneur working at the inters
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=pceventtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pceventtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pceventtech&theme=tokyonight&hide_border=true&background=0d1117&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" alt="Streak" />
-</p>
 
 ---
 
